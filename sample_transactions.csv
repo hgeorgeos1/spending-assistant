@@ -1,0 +1,85 @@
+transaction_date,category,merchant,amount
+2025-01-03,Transportation,Uber Trip,9.4
+2025-01-03,Dining,Chipotle Mexican Grill,56.9
+2025-01-05,Transportation,Uber Trip,150.17
+2025-01-05,Transportation,Shell Gas Station,131.55
+2025-01-11,Retail And Grocery,Whole Foods Market,125.23
+2025-01-11,Health And Fitness,Planet Fitness,51.62
+2025-01-12,Dining,Chipotle Mexican Grill,178.84
+2025-01-12,Retail And Grocery,Whole Foods Market,167.9
+2025-01-14,Health And Fitness,Planet Fitness,77.49
+2025-01-14,Entertainment,Netflix.Com,50.51
+2025-01-15,Transportation,Uber Trip,24.03
+2025-01-17,Utilities,Con Edison Electric,134.4
+2025-01-19,Health And Fitness,CVS Pharmacy,119.83
+2025-01-19,Utilities,Verizon Wireless,21.02
+2025-01-20,Utilities,Con Edison Electric,128.71
+2025-01-21,Transportation,Shell Gas Station,13.9
+2025-01-21,Shopping,Target,170.98
+2025-01-25,Dining,Chipotle Mexican Grill,101.94
+2025-01-26,Entertainment,Spotify Premium,83.96
+2025-01-28,Dining,Chipotle Mexican Grill,155.59
+2025-01-28,Transportation,Shell Gas Station,135.57
+2025-01-30,Shopping,Target,39.29
+2025-01-30,Utilities,Verizon Wireless,62.31
+2025-01-31,Shopping,Target,151.88
+2025-01-31,Retail And Grocery,Costco Wholesale,53.47
+2025-02-02,Utilities,Verizon Wireless,61.83
+2025-02-04,Dining,Local Bistro,49.93
+2025-02-04,Travel,Delta Air Lines,89.46
+2025-02-05,Health And Fitness,CVS Pharmacy,34.86
+2025-02-05,Entertainment,Netflix.Com,57.27
+2025-02-06,Dining,Chipotle Mexican Grill,165.35
+2025-02-06,Health And Fitness,Planet Fitness,197.93
+2025-02-07,Utilities,Con Edison Electric,51.37
+2025-02-09,Travel,Delta Air Lines,23.64
+2025-02-09,Retail And Grocery,Costco Wholesale,190.0
+2025-02-11,Entertainment,Spotify Premium,175.09
+2025-02-11,Health And Fitness,Planet Fitness,132.82
+2025-02-12,Utilities,Verizon Wireless,132.71
+2025-02-13,Travel,Marriott Hotels,58.31
+2025-02-14,Retail And Grocery,Whole Foods Market,150.94
+2025-02-14,Transportation,Uber Trip,151.25
+2025-02-15,Dining,Chipotle Mexican Grill,170.02
+2025-02-15,Dining,Local Bistro,28.1
+2025-02-16,Entertainment,Spotify Premium,102.0
+2025-02-17,Dining,Chipotle Mexican Grill,213.93
+2025-02-17,Entertainment,Spotify Premium,113.66
+2025-02-19,Dining,Starbucks Coffee,185.8
+2025-02-19,Travel,Marriott Hotels,135.54
+2025-02-21,Entertainment,Spotify Premium,120.51
+2025-02-22,Retail And Grocery,Whole Foods Market,133.37
+2025-02-22,Travel,Delta Air Lines,8.21
+2025-02-23,Dining,Starbucks Coffee,55.72
+2025-02-25,Transportation,Shell Gas Station,22.5
+2025-02-25,Travel,Delta Air Lines,180.26
+2025-02-26,Entertainment,Netflix.Com,31.73
+2025-02-26,Travel,Delta Air Lines,208.52
+2025-02-28,Travel,Marriott Hotels,192.45
+2025-03-01,Shopping,Amazon.Com,204.65
+2025-03-02,Shopping,Amazon.Com,158.0
+2025-03-02,Utilities,Verizon Wireless,218.95
+2025-03-03,Utilities,Con Edison Electric,98.63
+2025-03-03,Travel,Marriott Hotels,101.52
+2025-03-07,Retail And Grocery,Whole Foods Market,131.07
+2025-03-09,Shopping,Target,5.55
+2025-03-09,Retail And Grocery,Costco Wholesale,53.45
+2025-03-11,Transportation,Shell Gas Station,115.06
+2025-03-12,Travel,Delta Air Lines,50.28
+2025-03-14,Travel,Delta Air Lines,56.49
+2025-03-14,Travel,Delta Air Lines,178.42
+2025-03-18,Health And Fitness,Planet Fitness,80.53
+2025-03-18,Health And Fitness,Planet Fitness,104.88
+2025-03-19,Retail And Grocery,Costco Wholesale,149.45
+2025-03-19,Transportation,Uber Trip,17.09
+2025-03-20,Dining,Local Bistro,176.93
+2025-03-20,Transportation,Uber Trip,57.71
+2025-03-22,Health And Fitness,CVS Pharmacy,34.28
+2025-03-22,Entertainment,Spotify Premium,64.17
+2025-03-25,Transportation,Uber Trip,14.93
+2025-03-26,Retail And Grocery,Whole Foods Market,213.3
+2025-03-26,Shopping,Target,39.92
+2025-03-27,Travel,Delta Air Lines,50.17
+2025-03-28,Retail And Grocery,Costco Wholesale,39.56
+2025-03-30,Dining,Chipotle Mexican Grill,204.13
+2025-03-31,Dining,Starbucks Coffee,95.37
